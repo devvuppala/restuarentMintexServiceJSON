@@ -1,0 +1,22 @@
+{
+  "dishes": [
+    {
+      "id": 1,
+      "name": "Panner Butter Masala",
+      "price": 9.99
+    },
+    {
+      "id": 2,
+      "name": "Chicken Biryani",
+      "price": 19.99
+    },
+    {
+      "id": 3,
+      "name": "Chicken Masala",
+      "price": 39.99
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
