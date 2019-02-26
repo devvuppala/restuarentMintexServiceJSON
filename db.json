@@ -16,6 +16,14 @@
       "price": 39.99
     }
   ],
+  
+  "users":[
+	{
+		"name":"steve"
+		"email":"steve@gmail.com"
+	}
+  
+  ]
   "profile": {
     "name": "typicode"
   }
