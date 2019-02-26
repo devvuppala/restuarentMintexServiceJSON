@@ -14,6 +14,11 @@
       "id": 3,
       "name": "Chicken Masala",
       "price": 39.99
+    },
+    {
+      "id": 4,
+      "name": "Coffee",
+      "price": 3.99
     }
   ],
   
